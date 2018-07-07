@@ -1,0 +1,1 @@
+ConanSandboxServer.exe -log -MaxPlayers=50 -Port=7777 -QueryPort=27015
