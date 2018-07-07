@@ -1,4 +1,0 @@
-05-24-2018
-:set scrolloff=9999		Keeps the cursor always in the center for the screen.
-Ctrl + [C]			Same as [Escape]
-Ctrl + [[]			Same as [Escape]
